@@ -3,7 +3,7 @@
 An executive-level, dark-themed Power BI dashboard that delivers strategic, multi-dimensional insights into historical Olympic data. This project moves away from standard tool presets to implement custom information architecture, dynamic data formatting, and a polished, unified user interface.
 
 ## 🖼️ Dashboard Preview
-![Dashboard Showcase](Olympic Dashboard.png)
+![Dashboard Showcase](Olympic%20Dashboard.png)
 
 ---
 
